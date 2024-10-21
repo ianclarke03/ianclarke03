@@ -1,5 +1,5 @@
 # 💫 About Me:
-I'm a third-year computer science student at Hunter College and a part of the Daedalus Scholars Program. I am passionate about exploring new technologies to enhance my Software Development and Cybersecurity skills. I am currently exploring machine learning and building robust applications.
+I'm a computer science major at Hunter College and a part of the Daedalus Scholars Program. I am passionate about exploring new technologies to enhance my Software Development and Cybersecurity skills. I am currently exploring machine learning and building robust applications.
 
 
 ## 🌐 Socials:
